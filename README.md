@@ -1,7 +1,7 @@
 # unXSS
 =========
-=========
-Library to provide utility methods to escape and unescape HTML entitiesand save you from XSS attacks.
+
+>Library to provide utility methods to escape and unescape HTML entitiesand save you from XSS attacks.
 
 ### Installation
 
@@ -23,3 +23,6 @@ Library to provide utility methods to escape and unescape HTML entitiesand save 
 
   npm `test`
 
+###License
+
+>MIT
