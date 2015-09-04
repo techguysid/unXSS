@@ -1,6 +1,6 @@
 {
   "name": "unxss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small library which provides methods to escape and unescape HTML entities hence saving you from XSS attacks.",
   "main": "index.js",
   "scripts": {
