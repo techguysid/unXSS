@@ -18,13 +18,13 @@
     "xss",
     "attacks"
   ],
-  "author": "Siddharth Udeniya <techguysid.23@gmail.com> (https://github.com/techguysid)",
+  "author": "Siddharth Udeniya (https://github.com/techguysid)",
   "licenses": [
-  {
-    "type": "MIT",
-    "url": "https://github.com/techguysid/unXSS/blob/master/LICENSE-MIT"
-  }
-],  
+    {
+      "type": "MIT",
+      "url": "https://github.com/techguysid/unXSS/blob/master/LICENSE-MIT"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/techguysid/unXSS/issues"
   },
@@ -32,5 +32,6 @@
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5"
-  }
+  },
+  "dependencies": {}
 }

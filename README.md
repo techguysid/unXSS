@@ -5,13 +5,13 @@
 
 ### Installation
 
-  npm install scapegoat --save
+  npm install unxss --save
 
 ### Usage
 ```
-  var scapegoat = require('scapegoat')
-      escape = scapegoat.escape,
-      unescape = scapegoat.unescape;
+  var unxss = require('unxss')
+      escape = unxss.escape,
+      unescape = unxss.unescape;
 
   var html = `<h1>Hello World</h1>`,
       escaped = escape(html),
